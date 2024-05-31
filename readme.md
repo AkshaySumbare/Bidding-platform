@@ -31,3 +31,4 @@ If an item sold, user can see the bidder(last bid) user information and contact 
 
 [Youtube](https://www.youtube.com/watch?v=ASmErK8-OSc)
 
+"# Bidding-platform" 
